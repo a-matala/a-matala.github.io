@@ -35,10 +35,10 @@ SolidWorks • Engineering Drawings • QA Documentation • Excel
 Engineering intern supporting precision manufacturing and inspection operations.
 
 ### Technical Work
--Conducted quality inspections on precision parts and assemblies used in military-grade ordnance.
--Ensured component consistency across surfaces, pain finishes, and threads.
--Operated and maintained a Salt Fog Corrosion Test Chamber, significantly improving chamber uptime and enabling continuous 24/7 reliability.
--Created and refined operating procedures for salt fog testing and inspecting processes, reducing the test time per part.
+- Conducted quality inspections on precision parts and assemblies used in military-grade ordnance.
+- Ensured component consistency across surfaces, pain finishes, and threads.
+- Operated and maintained a Salt Fog Corrosion Test Chamber, significantly improving chamber uptime and enabling continuous 24/7 reliability.
+- Created and refined operating procedures for salt fog testing and inspecting processes, reducing the test time per part.
 
 
 ### Tools & Technologies
@@ -52,10 +52,10 @@ Calipers • Micrometers • Excel • Manufacturing Documentation • Visual In
 Quality Assurance intern supporting inspection, testing, and documentation operations.
 
 ### Technical Work
--Inspected assemblies and components using MIL-STD specifications and standards to ensure all products met rigorous quality requirements.
--Identified, documented, and reported defects to suport corrective action, reduing the frequency of recurring issues in production.
--Collaborated with other team members and project managers to resolve quality concerns and streamline workflow.
--Verified part tolerances and ensured strict adherence to fabrication requirements.
+- Inspected assemblies and components using MIL-STD specifications and standards to ensure all products met rigorous quality requirements.
+- Identified, documented, and reported defects to suport corrective action, reduing the frequency of recurring issues in production.
+- Collaborated with other team members and project managers to resolve quality concerns and streamline workflow.
+- Verified part tolerances and ensured strict adherence to fabrication requirements.
 
 ### Tools & Technologies
 Technical Documentation • Communication • Quality Inspection • Excel 
@@ -68,10 +68,10 @@ Technical Documentation • Communication • Quality Inspection • Excel
 Test Technician COOP supporting testing, troubleshooting, tuning, and documentation operations.
 
 ### Technical Work
--Worked alongside an experience mentor to perform RF circuit board testing and tuning, built for Air Force applications.
--Conducted standardized tests using engineering documents and collaborated closely with engineers, qualtiy control, test technicians, assemblers, and management.
--Analyzed production defects and identified root causes, corrected assembly errors, and ensured each unit met strict standards.
--Regularly used circuit diagrams and blueprints to aid in inspection and testing.
+- Worked alongside an experience mentor to perform RF circuit board testing and tuning, built for Air Force applications.
+- Conducted standardized tests using engineering documents and collaborated closely with engineers, qualtiy control, test technicians, assemblers, and management.
+- Analyzed production defects and identified root causes, corrected assembly errors, and ensured each unit met strict standards.
+- Regularly used circuit diagrams and blueprints to aid in inspection and testing.
 
 ### Tools & Technologies
 Visual Inspection • Debugging • Electrical Engineering • Testing 
