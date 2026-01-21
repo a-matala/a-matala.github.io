@@ -1,3 +1,9 @@
+
+---
+layout: defualt
+title: Home
+---
+
 # Austin Matala
 Aerospace Engineering Student
 University of Cincinnati
