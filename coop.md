@@ -69,7 +69,7 @@ Test Technician COOP supporting testing, troubleshooting, tuning, and documentat
 
 ### Technical Work
 - Worked alongside an experience mentor to perform RF circuit board testing and tuning, built for Air Force applications.
-- Conducted standardized tests using engineering documents and collaborated closely with engineers, qualtiy control, test technicians, assemblers, and management.
+- Conducted standardized tests using engineering documents and collaborated closely with engineers, quality control, test technicians, assemblers, and management.
 - Analyzed production defects and identified root causes, corrected assembly errors, and ensured each unit met strict standards.
 - Regularly used circuit diagrams and blueprints to aid in inspection and testing.
 
