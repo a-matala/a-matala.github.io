@@ -8,5 +8,5 @@ permalink: /contact/
 
 Best ways to reach me:
 
-- LinkedIn: https://linkedin.com/in/YOURNAME
-- Email: yourname@email.com
+- LinkedIn: https://www.linkedin.com/in/austin-matala/
+- Email: matalaam@mail.uc.edu
