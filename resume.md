@@ -6,6 +6,6 @@ permalink: /resume/
 
 # Resume
 
-Upload a file named `resume.pdf` to this repository, then this will work:
+Click the link below to download a PDF of my current resume.
 
-[Download Resume (PDF)](/resume.pdf)
+[Download Resume (PDF)](/assets/resume/Austin_Matala_Resume.pdf)
